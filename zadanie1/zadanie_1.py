@@ -1,3 +1,6 @@
+# https://github.com/emiltys/python-intro/
+# Emil Tyszka Nr albumu: 167055
+#
 # --- Laboratorium 1:
 #
 # Funkcja zip(): Funkcja ta tworzy iterator, który łączy
